@@ -6,6 +6,7 @@
 - :book: and published some course material (in french)
     - a [`git` Howto](https://hal91190.github.io/howto-git/)
     - a [refcard](https://hal91190.github.io/refcard-java/) about Java
+- :game_die: I'm interested in [Board Games](https://boardgamegeek.com/dashboard) and [Role Playing Games](https://rpggeek.com/)
 - :fr: I'm french
 
 <!---
